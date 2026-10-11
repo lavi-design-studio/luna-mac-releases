@@ -71,7 +71,6 @@ one, and Shift-click on a link peeks it beside the page. Drag the divide to shar
 
 ### Bookmarks in folders, History, Downloads
 
-![The Bookmarks page in the dark Luna look: search, sort, grid or list, and folder tabs for Reading, Design and Travel](docs/img/bookmarks-folders.jpg)
 
 `⇧⌘B` bookmarks the page, `⇧⌘O` opens the **Bookmarks** page: folders, a grid with pictures of the pages or a list,
 search and sorting. `⌘Y` opens **History** as a timeline, `⌥⌘L` **Downloads**. Reading mode (`⇧⌘R`) lays out the
