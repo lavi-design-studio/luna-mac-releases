@@ -13,7 +13,7 @@ This repository holds **releases only**: the latest build is on the [Releases pa
 2. Luna is signed ad hoc, not with an Apple Developer ID. The first time: right-click Luna ▸ **Open** (or System Settings ▸ Privacy & Security ▸ **Open Anyway**).
 3. From then on Luna updates itself (Sparkle). After an update macOS may ask again for camera, microphone, location and Downloads access.
 
-Requires an Apple silicon Mac (macOS 14 or later).
+Requires an Apple silicon Mac and macOS 12 or later (developed and tested on the latest macOS).
 
 ## What is in it
 - Tabs down the side or across the top, spaces, pinned sites, split view (⌘\\), the **field** (type to search, `>` for commands), the Shelf.
