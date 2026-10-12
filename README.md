@@ -11,16 +11,17 @@ behave as they do in Chrome. At rest Luna's own window uses no CPU, and backgrou
 
 This repository holds **releases only**: the latest build is on the
 [Releases page](https://github.com/lavi-design-studio/luna-mac-releases/releases/latest). The current version is
-**1.0.0**. The source is private.
+**1.0.1**. The source is private.
 
 > Every screenshot on this page is a real capture of Luna 0.17.11 on a Mac (Retina). The pages shown are demo pages
 > written for these pictures and Luna's own screens; no third-party sites and no personal data.
 
 ## Install
 
-1. Download [**Luna-1.0.0.dmg**](https://github.com/lavi-design-studio/luna-mac-releases/releases/download/v1.0.0/Luna-1.0.0.dmg?download=1).
+1. Download [**Luna-1.0.1.dmg**](https://github.com/lavi-design-studio/luna-mac-releases/releases/download/v1.0.1/Luna-1.0.1.dmg?download=1).
 2. Open the DMG and drag **Luna** to **Applications**.
-3. Open Luna. You can check for updates in **Settings ▸ Updates**.
+3. Open Luna. The first time, macOS may say it can't check Luna: open **System Settings ▸ Privacy & Security** and
+   choose **Open Anyway**. You can check for updates in **Settings ▸ Updates**.
 
 **Requirements:** a Mac with **Apple silicon** (M1 or later) and **macOS 12 Monterey or later**. Luna is developed
 and tested on the latest macOS.
