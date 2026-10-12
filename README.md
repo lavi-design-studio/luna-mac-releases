@@ -18,7 +18,7 @@ This repository holds **releases only**: the latest build is on the
 
 ## Install
 
-1. Download [**Luna-1.0.0.dmg**](https://github.com/lavi-design-studio/luna-mac-releases/releases/download/v1.0.0/Luna-1.0.0.dmg).
+1. Download [**Luna-1.0.0.dmg**](https://github.com/lavi-design-studio/luna-mac-releases/releases/download/v1.0.0/Luna-1.0.0.dmg?download=1).
 2. Open the DMG and drag **Luna** to **Applications**.
 3. Open Luna. You can check for updates in **Settings ▸ Updates**.
 
