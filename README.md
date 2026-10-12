@@ -11,23 +11,16 @@ behave as they do in Chrome. At rest Luna's own window uses no CPU, and backgrou
 
 This repository holds **releases only**: the latest build is on the
 [Releases page](https://github.com/lavi-design-studio/luna-mac-releases/releases/latest). The current version is
-**0.17.11**. The source is private.
+**1.0.0**. The source is private.
 
 > Every screenshot on this page is a real capture of Luna 0.17.11 on a Mac (Retina). The pages shown are demo pages
 > written for these pictures and Luna's own screens; no third-party sites and no personal data.
 
 ## Install
 
-1. Download **`Luna-0.17.11.dmg`** (about 170 MB) from the
-   [latest release](https://github.com/lavi-design-studio/luna-mac-releases/releases/latest), open it and drag
-   **Luna** to **Applications**. The app is about 350 MB once installed, because Chromium comes with it.
-2. Luna is signed **ad hoc**, not with an Apple Developer ID, so the first time macOS will not open it with a
-   double-click. **Right-click Luna ▸ Open**, then Open again (or System Settings ▸ Privacy & Security ▸
-   **Open Anyway**). You only do this once.
-3. From then on **Luna updates itself** through Sparkle. Updates are signed with Luna's own key (EdDSA) and checked
-   before they are installed; Settings ▸ Updates lets you check by hand or turn it off. After an update macOS may
-   ask again for camera, microphone, location and Downloads access, because an ad-hoc signature changes with each
-   build.
+1. Download [**Luna-1.0.0.dmg**](https://github.com/lavi-design-studio/luna-mac-releases/releases/download/v1.0.0/Luna-1.0.0.dmg).
+2. Open the DMG and drag **Luna** to **Applications**.
+3. Open Luna. You can check for updates in **Settings ▸ Updates**.
 
 **Requirements:** a Mac with **Apple silicon** (M1 or later) and **macOS 12 Monterey or later**. Luna is developed
 and tested on the latest macOS.
@@ -108,7 +101,6 @@ article and nothing else; `⇧⌘P` floats a playing video.
 - **Saved passwords and autofill:** Luna does not save passwords; use a password manager app.
 - **Manifest V2 extensions** are not supported (Manifest V3 only). Adding an extension needs a relaunch, and
   extensions do not run in private tabs.
-- No Developer ID signature or notarisation yet (see Install), and no Homebrew cask yet.
 
 ## Keyboard
 
