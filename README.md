@@ -1,4 +1,4 @@
-<img src="docs/img/luna-icon.png" alt="Luna icon: a crescent moon drawn in a grid of square dots" width="96">
+<img src="docs/img/luna-icon.png" alt="Luna icon: a silver crescent with a star whose arm runs through it, on deep blue glass" width="96">
 
 # Luna for macOS
 
