@@ -141,7 +141,7 @@ The full list, read from the menu bar so it is always the keys that work, is in 
 
 Luna started on Windows, where it runs on WebView2: see
 [lavi-design-studio/luna-releases](https://github.com/lavi-design-studio/luna-releases). The Mac version follows
-it feature for feature where that makes sense on a Mac (0.17.11 here follows Windows 0.17.10), with the Mac's own
+it feature for feature where that makes sense on a Mac (Luna 1.0 on both: 1.0.1 here, and 1.0.0, the first official release, on Windows), with the Mac's own
 keys, menus, panels and updater. What differs: the Mac bundles its own Chromium (so the app is larger), it has no
 protected video, and Luna does not keep passwords.
 
