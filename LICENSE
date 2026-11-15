@@ -1,0 +1,63 @@
+Luna for macOS: Licence
+
+Copyright (c) 2026 Lavi Design Studio. All rights reserved.
+
+Luna is proprietary software: free to use, not open source. By installing or using Luna you accept this licence. If
+you do not accept it, do not install or use Luna.
+
+1. What you may do
+
+   Lavi Design Studio grants you a free, non-exclusive, non-transferable licence to download, install and use Luna on
+   the computers you own or control, for personal or commercial work. You may keep copies of the downloaded installer
+   as a backup.
+
+2. What you may not do
+
+   Unless Lavi Design Studio agrees in writing, you may not:
+   a. copy Luna, except to install it or to keep the backup above;
+   b. modify Luna, translate it, or make works based on it;
+   c. reverse engineer, decompile or disassemble Luna, or try to derive its source code, except where the law allows
+      it despite this restriction, and then only as far as it allows;
+   d. redistribute, sell, rent, lease, lend, sublicense or host Luna for others, or offer it for download anywhere other
+      than its official sources (github.com/lavi-design-studio/luna-mac-releases and the Homebrew tap
+      lavi-design-studio/tap);
+   e. remove, change or hide any copyright, licence or attribution notice in Luna;
+   f. use the name "Luna" with Luna's icon, logo or look in a way that suggests another product is Luna, comes from
+      Lavi Design Studio, or is endorsed by it.
+
+3. Source code
+
+   Luna's source code is confidential and is not published. This licence grants no rights to it.
+
+4. Components from others
+
+   Luna includes software and data from others, such as Chromium, the Chromium Embedded Framework, Sparkle, EasyList
+   and EasyPrivacy. Each is under its own licence, listed in Luna.app/Contents/Resources/Notices
+   (THIRD-PARTY-NOTICES.md and the licence texts beside it) and at luna://credits. Those licences govern those
+   components. Nothing in this licence limits the rights they give you.
+
+5. Updates
+
+   Luna checks for new versions and can install them by itself. These are signed by Lavi Design Studio. You can turn
+   this off in Settings > Updates. Each update is covered by this licence unless it comes with another one.
+
+6. Ownership
+
+   Luna is licensed to you, not sold. Lavi Design Studio keeps all rights, title and interest in Luna, its name, icon
+   and design. Everything not expressly granted here is reserved.
+
+7. No warranty
+
+   LUNA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+
+   AS FAR AS THE LAW ALLOWS, LAVI DESIGN STUDIO IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM
+   LUNA OR ITS USE, INCLUDING LOST DATA, LOST PROFITS OR INDIRECT DAMAGES. THIS IS SO EVEN IF IT WAS TOLD THEY COULD
+   HAPPEN.
+
+9. End
+
+   This licence lasts until it ends. It ends at once if you break it. When it ends, stop using Luna and delete it.
+   Sections 3, 6, 7 and 8 still apply after it ends.

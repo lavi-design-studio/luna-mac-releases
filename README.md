@@ -153,6 +153,9 @@ version (Settings ▸ About). Luna writes runtime errors to `errors.log` in its 
 
 ## Licence
 
-Luna is made by [Lavi Design Studio](https://github.com/lavi-design-studio). The builds are free to use; a licence
-has not been specified yet. Pages run on Chromium through the Chromium Embedded Framework (BSD licence); updates
+Luna is made by [Lavi Design Studio](https://github.com/lavi-design-studio). It is proprietary and free to use under
+its [licence](LICENSE): install and use it on your own computers, for personal or commercial work; do not copy,
+modify, reverse engineer or redistribute it (download it only from this repository's releases or the Homebrew tap).
+The source is not published. Bundled components keep their own licences (Luna.app ▸ Contents ▸ Resources ▸ Notices,
+and luna://credits). Pages run on Chromium through the Chromium Embedded Framework (BSD licence); updates
 use [Sparkle](https://sparkle-project.org).
